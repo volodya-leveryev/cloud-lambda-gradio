@@ -1,6 +1,0 @@
-# Neural network framework
---requirement requirements-torch.txt ; sys_platform == 'linux'
-torchvision ; sys_platform == 'linux'
-
-# Web framework
-gradio
